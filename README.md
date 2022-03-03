@@ -34,3 +34,4 @@ At
     
 Insert the bot's token (or your personal account's if you are doing it by selfbot)
 
+**you're all done! run your code in terminal by typing "node ."**
