@@ -3,6 +3,8 @@ If your friends don't give you mod or admin etc. in their discord server. (If th
 
 # Beginners Guide
 
+NOTE: **YOU WILL NEED NODE.JS INSTALLED ALREADY**
+
  You need to add the role's chosen variable name after const.. eg.
 
     const mod = '';
