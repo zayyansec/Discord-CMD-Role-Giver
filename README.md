@@ -1,7 +1,7 @@
-If your friends don't give you mod or admin etc. in their discord server. (If they don't know much about managing discord servers), Tell them something is broken in the server and you need a bot to fix it or else the server will automatically be deleted, add this bot and recieve mod/admin by typing your command (while running the bot ofcourse) 
+If your friends don't give you mod or admin etc. in their discord server. (If they don't know much about managing discord servers), Tell them something is broken in the server and you need a bot to fix it or else the server will automatically be deleted, add this bot and recieve mod/admin by typing your command (while running the bot of course) 
 
 
-#Beginners Guide
+# Beginners Guide
 
  You need to add the role's chosen variable name after const.. eg.
 
