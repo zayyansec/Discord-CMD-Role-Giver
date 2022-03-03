@@ -4,6 +4,7 @@ If your friends don't give you mod or admin etc. in their discord server. (If th
 # Beginners Guide
 
 NOTE: **YOU WILL NEED NODE.JS INSTALLED ALREADY**
+**YOU CAN ADD MORE TARGET ROLES BY COPY AND PASTING COMMAND BLOCK FROM (if TILL ;)
 
  You need to add the role's chosen variable name after const.. eg.
 
