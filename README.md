@@ -9,7 +9,7 @@ NOTE: **YOU WILL NEED NODE.JS INSTALLED ALREADY**
 
     const mod = '';
 
-After that, input the role ID in the ''. eg.
+After that, input the role ID in the '    '. eg.
 
     const mod = '//target-role-id-here';
 
