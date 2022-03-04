@@ -3,8 +3,8 @@ I made this script using NodeJS, because I needed it :). If your friends don't g
 
 # Beginners Guide
 
-NOTE: **YOU WILL NEED NODE.JS INSTALLED ALREADY**
-**YOU CAN ADD MORE TARGET ROLES BY COPY AND PASTING COMMAND BLOCK FROM (if TILL ;)
+NOTE: **YOU WILL NEED NODE.JS INSTALLED ALREADY**<br>
+**YOU CAN ADD MORE TARGET ROLES BY COPY AND PASTING COMMAND BLOCK**
 
  You need to add the role's chosen variable name after const.. eg.
 
